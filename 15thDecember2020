@@ -1,0 +1,10 @@
+What are the different control flow statements available in Java?
+Control flow stratements are categorized into 3 types : Selection, Iteration and jump statements.
+Selection statements(Decision making statements) ; if else switch [True or Flase]
+Iteration statements : A block a code is repeatedly executed for specific number of times- for, while, do while, for each.
+Jump statements : Alters or transfers the contol to other section of the program- break, continue
+
+
+What is the difference between break and continue statements?
+The break keyword is used to stop a loop execution, which may be a for, while, do while or for each.
+The continue keyword is used to skip the particular recursion only in a loop execution, which may be a for, while, do while or for each.
